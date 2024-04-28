@@ -1,5 +1,30 @@
 # GifsApp
 
+This is a simple application to practise Angular.
+
+## Main Topics Covered:
+
+1. **Modularization of the Application:** Organize your app into manageable modules.
+  
+2. **Large-Scale Application Structure:** Design a scalable structure for your application.
+  
+3. **Components:** Utilize reusable components for efficient development.
+  
+4. **ViewChild:** Understand and implement ViewChild for accessing child components.
+  
+5. **Services:** Implement services for sharing data and logic across components.
+  
+6. **Search History:** Manage and display user search history effectively.
+  
+7. **Use of API Keys:** Securely integrate API keys for external services.
+  
+8. **LocalStorage:** Utilize LocalStorage for client-side data persistence.
+  
+9. **HTTP Requests:** Perform HTTP requests to fetch and send data to servers.
+  
+10. **CSS-Based Animations:** Create dynamic animations using CSS for a better user experience.
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.5.
 
 ## Development server
